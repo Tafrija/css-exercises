@@ -1,0 +1,13 @@
+p{
+background: rgb(255, 167, 167);
+color: black;
+}
+
+#one{
+ color: blue;
+ font-size: 36px;
+}
+#another{
+    background-color: lightgreen;
+    font-weight: bold;
+}
