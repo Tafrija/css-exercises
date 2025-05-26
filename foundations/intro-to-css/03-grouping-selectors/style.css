@@ -1,0 +1,19 @@
+
+ .Black.Grey{
+    display: inline-block;
+    padding: 100px;
+    margin:20px;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+
+
+}
+.Black{
+    background-color: black;
+    color: white;
+}
+.Grey{
+    background-color: yellow;
+    color: black;
+}
