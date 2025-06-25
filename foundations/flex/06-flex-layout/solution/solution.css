@@ -50,15 +50,13 @@ a {
   text-decoration: none;
 }
 
-.header,
-.footer {
-  display: flex;
-  justify-content: space-between;
-  padding: 16px;
-}
 
+
+.header
 .footer {
-  background: #eee;
+display: flex;
+justify-content: end;
+
 }
 
 ul {
@@ -67,4 +65,8 @@ ul {
   margin: 0;
   padding: 0;
   gap: 16px
+}
+
+.content{
+ flex: 1; 
 }
